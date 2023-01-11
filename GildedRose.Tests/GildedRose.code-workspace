@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "GildedRose",
+			"path": "../GildedRose"
+		},
+		{
+			"name": "Gilded-Rose-main",
+			"path": "../../Gilded-Rose-main"
+		},
+		{
+			"name": ".vscode",
+			"path": "../.vscode"
+		},
+		{
+			"name": "GildedRose.Tests",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
